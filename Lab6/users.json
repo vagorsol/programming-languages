@@ -1,0 +1,5 @@
+[
+    {"FirstName": "Todd","LastName": "Howard", "ID": "69420", "Age": 22,"DOB": {"Year": 2002, "Month": "Dec", "Day": 2},"FaveRealNum": 27},
+    {"FirstName": "Reggie","LastName": "FilsAnime", "ID": "66633", "Age": 22,"DOB": {"Year": 2001, "Month": "July", "Day": 13},"FaveRealNum": 41},
+    {"FirstName": "Jared","LastName": "Nineteen", "ID": "19", "Age": 19,"DOB": {"Year": 19, "Month": "Ninteen", "Day": 19},"FaveRealNum": 19}
+]
